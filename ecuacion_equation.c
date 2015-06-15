@@ -32,7 +32,7 @@ int n;
 	
 	
 	if (num == 1 ) {
-	printf("Bienvenido a la ecuacion vectorial de la recta\n");
+	printf("Bienvenido a la ecuacion vectorial de la recta\n"); //Ecuacion vectorial
 		printf("\n");
 	printf("(x,y) = (a,b) + t * (v1,v2)\n");
 		printf("\n");
@@ -55,7 +55,7 @@ int n;
 	printf("Gracias por usar mi APP.\nbyDavid360");
 }
 else if ( num == 2){
-	printf("Bienvenido a la ecuacion parametrica de la recta\n");
+	printf("Bienvenido a la ecuacion parametrica de la recta\n"); //Ecuacion parametrica
 		printf("\n");
 	printf("x = a + t * v1\ny = b + t * v2\n");
 		printf("\n");
@@ -78,7 +78,7 @@ else if ( num == 2){
 	printf("Gracias por usar mi APP.\nbyDavid360");
 }
 else if ( num == 3){
-	printf("Bienvenido a la ecuacion continua de la recta\n");
+	printf("Bienvenido a la ecuacion continua de la recta\n"); //Ecuacion continua
 		printf("\n");
 	printf("x-a/v1 = y-b/v2\n");
 		printf("\n");
@@ -101,7 +101,7 @@ else if ( num == 3){
     printf("Gracias por usar mi APP.\nbyDavid360");	
 }
 else if ( num == 4){
-	printf("Bienvenido a la ecuacion punto pendiente de la recta\n");
+	printf("Bienvenido a la ecuacion punto pendiente de la recta\n"); //Ecuacion punto pendiente
 		printf("\n");
 	printf("y - b = m (x - a)\n");
 		printf("\n");
@@ -125,7 +125,7 @@ else if ( num == 4){
 }
 else if ( num == 5){
 	
-	printf("Bienvenido a la ecuacion general de la recta\n");
+	printf("Bienvenido a la ecuacion general de la recta\n"); //Ecuacion general
 		printf("\n");
 	printf("Ax + By + C = 0\n");
 		printf("\n");
@@ -150,7 +150,7 @@ C = -1*((-v22 * (p11) + (v11*p22)));
 	
 }
 else if ( num == 6){
-	printf("Bienvenido a la ecuacion explicita de la recta\n");
+	printf("Bienvenido a la ecuacion explicita de la recta\n"); //Ecuacion explícita
 		printf("\n");
 	printf("y = mx + n\n");
 		printf("\n");
